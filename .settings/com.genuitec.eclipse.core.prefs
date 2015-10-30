@@ -1,0 +1,4 @@
+#Tue Oct 28 14:15:09 CST 2014
+eclipse.preferences.version=1
+validator.Checked=WebRoot/script/date/js/jquery-ui-datepicker.js,WebRoot/WEB-INF/jsp,WebRoot/script/jquery.js
+validator.Unchecked=
