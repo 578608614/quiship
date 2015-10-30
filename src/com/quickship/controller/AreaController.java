@@ -24,6 +24,7 @@ public class AreaController extends BaseController {
 		Area area = areaService.find(areaId);
 		if (area != null) {
 			return areaService.findChild(area);
+			
 		} else {
 			return null;
 		}
